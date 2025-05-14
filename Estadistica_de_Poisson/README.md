@@ -6,7 +6,7 @@ Este proyecto realiza un análisis estadístico de los conteos registrados por u
 
 - `datos/`: contiene los archivos CSV con los conteos registrados.
 - `graficas/`: guarda los histogramas generados.
-- `analisis_poisson.py`: script principal para el análisis.
+- `poisson.py`: script principal para el análisis.
 - `utils.py`: funciones auxiliares.
 - `requirements.txt`: librerías necesarias para ejecutar el proyecto.
 
